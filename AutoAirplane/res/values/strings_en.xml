@@ -1,0 +1,31 @@
+<resources>
+	<string name="app_name">Auto Airplane</string>
+	<string name="title_activity_main">Auto Airplane</string>
+
+	<string name="config_manual_title">Manual switch</string>
+	<string name="config_manual_mode">Airplane mode</string>
+	
+	<string name="config_mode_title">AutoMode Setting</string>
+	
+    <string name="config_automode_mode">Mode select</string>
+    <string name="config_automode_start">Enter time</string>
+    <string name="config_automode_stop">Leave time</string>
+    
+    <string name="config_other_wifi">Keep wifi state</string>
+    <string name="config_other_wifi_summary">when entering airplane mode</string>
+
+    <string name="toast_start">Entering airplane mode</string>
+    <string name="toast_stop">Leaving airplane mode</string>
+    <string-array name="config_automode_hint">
+        <item >Disable</item>
+        <item >Only Enter</item>
+        <item >Only Leave</item>
+        <item >Enter&amp;Leave</item>
+    </string-array>
+    <string-array name="config_automode_string">
+        <item >Disable auto airplane mode</item>
+        <item >Auto enter airplane mode</item>
+        <item >Auto leave airplane mode</item>
+        <item >Auto enter&amp;leave airplane mode</item>
+    </string-array>
+</resources>

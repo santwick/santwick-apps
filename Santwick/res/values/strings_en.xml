@@ -1,0 +1,49 @@
+<resources>
+
+
+    <string name="title_activity_config_about">About us</string>
+    
+    <string name="header_back_back">Back</string>
+    <string name="header_back_exit">Exit</string>
+    <string name="header_share">Share</string>
+    
+    
+    <string name="config_normal_title">Normal settings</string>
+    <string name="config_adv_title">Advanced settings</string>
+    <string name="config_ui_title">View settings</string>
+    <string name="config_other_title">Additional settings</string>
+    <string name="config_other_about">About Us</string>
+    
+    <string name="config_about_version">Check for new version</string>
+	<string name="config_about_share">Share this app</string>
+    <string name="config_about_share_summary">Share this app to your friends</string>
+    <string name="config_about_recommend">Our apps</string>
+	<string name="config_about_recommend_summary">Our apps</string>
+	<string name="config_about_contact">Contact us</string>
+	<string name="config_about_contact_summary">Please contact us once you are interesting in our apps, thank you</string>
+    <string name="config_about_coypright">Copyright</string>
+    <string name="config_about_coypright_summary">Copyright@ 2012 Santwick Studio.\n All Rights Reserved.</string>
+	<string name="share_title">To share %1$s</string>
+    <string name="share_content">I got a cool app that is named #%1$s#, you can try it. download %2$s @santwick</string>
+
+	<string name="email_title">Feedback about %1$s</string>
+    <string name="email_content">I got a bug that needs to be fixed, I have a good suggestion.</string>
+
+    <string name="button_ok">Yes</string>
+    <string name="button_cancel">Cancel</string>
+    
+	<string name="version_update_confirm">New version is available,update now?</string>
+	
+    <string name="version_check_alreadylatest">This version is already the latest</string>
+    <string name="version_check_failed">Failed to check for new version </string>
+    <string name="version_check_start">Checking for new version</string>
+    
+    <string name="title_activity_config_ourapps">Our apps</string>
+    <string name="config_ourapps_company">Santwick Studio</string>
+    <string name="config_ourapps_web">web http://www.3tke.com</string>
+    <string name="config_ourapps_email">email santwick@gmail.com</string>
+    <string name="config_ourapps_noitem">no apps found</string>
+    
+    <string name="app_download_confirm">Download Now?</string>
+
+</resources>

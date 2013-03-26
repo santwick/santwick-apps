@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">一键锁屏</string>
+	<string name="title_activity_setting">锁屏设置</string>
+    <string name="config_access_title">激活权限</string>
+    <string name="config_access_privileges">激活锁屏权限</string>
+	<string name="config_access_summary">只有激活设备管理权限，才能一键锁屏</string>
+    <string name="config_access_uninstall_title">警告：如果想卸载本应用，必须先取消激活设备管理权限</string>
+    <string name="config_shortcut_title">快捷方式设置</string>
+    <string name="config_shortcut_desktop">生成一键锁屏桌面快捷方式</string>
+    <string name="config_compatible_title">兼容性设置</string>
+    <string name="config_compatible_mode">开启兼容模式</string>
+    <string name="config_compatible_summary">兼容Android 4.0.4、4.1.1版本</string>
+</resources>

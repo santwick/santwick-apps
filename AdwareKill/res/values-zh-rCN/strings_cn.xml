@@ -1,0 +1,48 @@
+<resources>
+
+    <string name="app_name">通知栏广告查杀</string>
+    
+    
+
+    <string name="title_activity_main">通知栏广告查杀</string>
+    <string name="title_activity_config">设置</string>
+    <string name="title_activity_history">查杀历史</string>
+    <string name="title_activity_ignorelist">忽略列表</string>
+    <string name="title_activity_scan">扫描</string>
+    
+    <string name="main_checknow">立即检查</string>
+    <string name="main_adwarerule">恶意广告库版本</string>
+    <string name="main_ignorelist">忽略列表</string>
+    <string name="main_history">查杀历史</string>
+    
+    
+    <string name="header_config">设置</string>
+    <string name="header_rescan">重新扫描</string>
+    
+    <string name="scan_info_start">正在查找，请稍候……</string>
+    <string name="scan_info_scaning">正在查找(%1$d/%2$d)，请稍候……</string>
+    <string name="scan_info_end">扫描完成，发现%1$d个带恶意广告应用</string>
+    <string name="button_rescan">重新扫描</string>
+    <string name="button_del">删除</string>
+    
+	<string name="config_normal_checknewapp">自动扫描新装应用</string>
+    <string name="config_normal_checknewapp_summary">如果发现新装应用含有恶意通知栏广告，进行报警</string>
+    <string name="config_update_title">更新设置</string>
+    <string name="config_update_rules">自动更新恶意广告库</string>
+    <string name="config_update_wifi">只在有Wifi连接时更新</string>
+    <string name="ignore_info">共有%1$d个被忽略的带恶意广告的应用</string>
+    <string name="menu_title">选择操作方式</string>
+    <string name="menu_uninstall">卸载应用</string>
+    <string name="menu_movetoignore">添加到忽略列表</string>
+    <string name="menu_moveoutignore">移出忽略列表</string>
+    <string name="menu_search">查找该应用去广告版本</string>
+    <string name="notify_content">%1$s包含%2$s</string>
+    <string name="search_url">http://www.baidu.com/s?wd=%1$s%%20去广告版</string>
+    <string name="menu_clearlog">清除这条记录</string>
+    <string name="history_info">共有%1$d条记录</string>
+    
+	<string name="update_rule_success">恶意广告库更新成功</string>
+    <string name="update_rule_alreadylatest">恶意广告库已经是最新</string>
+    <string name="update_rule_failed">恶意广告库更新失败</string>
+    <string name="update_rule_start">恶意广告库开始更新</string>
+</resources>

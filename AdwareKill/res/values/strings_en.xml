@@ -1,0 +1,47 @@
+<resources>
+
+    <string name="app_name">AdwareKill</string>
+
+    <string name="title_activity_main">AdwareKill</string>
+    <string name="title_activity_config">Setting</string>
+	<string name="title_activity_history">History Record</string>
+    <string name="title_activity_ignorelist">Ignore List</string>
+    <string name="title_activity_scan">Scan</string>
+    
+    <string name="header_config">Setting</string>
+    <string name="header_rescan">Rescan</string>
+    
+    <string name="main_checknow">Scan now</string>
+    <string name="main_adwarerule">Adware library version</string>
+    <string name="main_ignorelist">Ignore list</string>
+    <string name="main_history">History Record</string>
+    
+    <string name="scan_info_start">Scanning…</string>
+    <string name="scan_info_scaning">Scanning(%1$d/%2$d)…</string>
+    <string name="scan_info_end">Scan completed,%1$d adwares detected.</string>
+    <string name="button_rescan">ReScan</string>
+    <string name="button_del">Remove</string>
+
+	<string name="config_normal_checknewapp">Automatically scan new apps</string>
+    <string name="config_normal_checknewapp_summary">Adware detection alert</string>
+    <string name="config_update_title">Update setting</string>
+
+    <string name="config_update_rules">Automatically update adware library</string>
+    <string name="config_update_wifi">Update only via WiFi</string>
+    <string name="ignore_info">%1$d apps that had adware</string>
+    
+	<string name="menu_title">Mode select</string>
+    <string name="menu_uninstall">Uninstall app</string>
+    <string name="menu_movetoignore">Adding an app to the ignore list</string>
+    <string name="menu_moveoutignore">Removing an app from the ignore list</string>
+    <string name="menu_search">To find similar apps with no ads</string>
+    <string name="notify_content">%1$s includes %2$s</string>
+    <string name="search_url">http://www.google.co.uk/search?q=%1$s%%20no%%20ads%%20version</string>
+    <string name="menu_clearlog">To delete this item</string>
+    <string name="history_info">%1$d items</string>
+    <string name="update_rule_success">Adware library updated successfully</string>
+    <string name="update_rule_alreadylatest">Adware library is already the latest</string>
+    <string name="update_rule_failed">Failed to update Adware library</string>
+    <string name="update_rule_start">Updating adware library </string>
+
+</resources>

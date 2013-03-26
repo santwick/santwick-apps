@@ -1,0 +1,59 @@
+<resources>
+
+    <string name="app_name">Traffic watchdog widget</string>
+    
+    <string name="widget_day">D</string>
+    <string name="widget_month">M</string>
+
+    <string name="title_activity_config">Traffic watchdog</string>
+    <string name="title_activity_config_alerm">Traffic Notification</string>
+    <string name="title_activity_config_discount">Discount Time</string>
+
+
+    <string name="config_normal_monthlimit">Monthly data package</string>
+    <string name="config_normal_monthlimit_hint">Not Set</string>
+    <string name="config_normal_alerm">Traffic usage warning</string>
+    <string name="config_normal_block">Auto block net</string>
+    <string name="config_normal_block_summary">when data capacity is exceeded</string>
+    <string name="config_adv_flowcorrect">Traffic calibration</string>
+    <string name="config_adv_discount">Discount time setting</string>
+    <string name="config_ui_progress">Progress bar on widget</string>
+
+    
+    <string name="config_alerm_title">Traffic reminder : Set traffic notification thresholds (%)</string>
+    <string name="config_alerm_25">Traffic reminder: 25%</string>
+    <string name="config_alerm_50">Traffic reminder: 50%</string>
+    <string name="config_alerm_75">Traffic reminder: 75%</string>
+    <string name="config_alerm_100">Traffic reminder: 100%</string>
+    <string name="config_alerm_5M">Remaining traffic : 5MB</string>
+    <string name="config_alerm_1M">Remaining traffic : 1MB</string>
+    
+    <string name="config_discount_title">Discount</string>
+    <string name="config_discount_type">Discount Type</string>
+    <string name="config_discount_start">Start time</string>
+    <string name="config_discount_stop">Stop time</string>
+    
+	<string-array name="config_discount_type_hint">
+        <item >None</item>
+        <item >Half</item>
+        <item >Free</item>
+    </string-array>
+    <string-array name="config_discount_select_string">
+        <item >None</item>
+        <item >Half</item>
+        <item >Free</item>
+    </string-array>
+    
+    
+    <string name="input_monthlimit_title">Set subscribed traffic monthly(MB)</string>
+    <string name="input_flowcorrect_title">Set previously-used data(MB)</string>
+    <string name="tips_flowcorrect_succes">Traffic calibration successful</string>
+    <string name="tips_flowcorrect_failed">Traffic calibration failed, the input string was not in a correct format ,Please try again</string>
+    
+	<string name="notify_flow_title">Traffic warning</string>
+    <string name="notify_flow_content_over">usage %1$.1fMB\nover %3$d%% of monthly %2$dMB.</string>
+    <string name="notify_flow_content_left">usage %1$.1fMB\nRemaining %2$dMB.</string>
+    
+ 
+
+</resources>

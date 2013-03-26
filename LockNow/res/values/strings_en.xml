@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LockNow</string>
+    <string name="title_activity_setting">LockNow Setting</string>
+    <string name="config_access_title">Activation Setting</string>
+    <string name="config_access_privileges">Activation device admin</string>
+    <string name="config_access_summary">This app can\'t lock screen until active device admin</string>
+    <string name="config_access_uninstall_title">Warning: if you want to uninstall this app,you must cancle activation device admin</string>
+    <string name="config_shortcut_title">Shortcut Setting</string>
+    <string name="config_shortcut_desktop">Put a shortcut on home screen</string>
+    <string name="config_compatible_title">Compatible Setting</string>
+    <string name="config_compatible_mode">Compatible mode</string>
+    <string name="config_compatible_summary">Compatible android 4.0.4,4.1.1</string>
+</resources>

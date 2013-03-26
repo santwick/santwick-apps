@@ -1,0 +1,33 @@
+<resources>
+
+	<string name="app_name">自动飞行模式</string>
+	<string name="title_activity_main">自动飞行模式</string>
+	
+	<string name="config_manual_title">手动开关</string>
+	<string name="config_manual_mode">飞行模式</string>
+
+	<string name="config_mode_title">自动设置</string>
+    <string name="config_automode_mode">模式选择</string>
+    <string name="config_automode_start">进入时间</string>
+    <string name="config_automode_stop">退出时间</string>
+    
+    <string name="config_other_wifi">保持WiFi状态</string>
+    <string name="config_other_wifi_summary">在进入飞行模式的时候</string>
+
+    <string name="toast_start">正在进入飞行模式</string>
+    <string name="toast_stop">正在退出飞行模式</string>
+    
+	<string-array name="config_automode_hint">
+        <item >禁用自动</item>
+        <item >自动进入</item>
+        <item >自动退出</item>
+        <item >自动进出</item>
+    </string-array>
+    <string-array name="config_automode_string">
+        <item >禁用自动飞行模式</item>
+        <item >自动进入飞行模式</item>
+        <item >自动退出飞行模式</item>
+        <item >自动进出飞行模式</item>
+    </string-array>
+    
+</resources>

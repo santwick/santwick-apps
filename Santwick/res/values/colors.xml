@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="setting_backgroud">#F0F0F0</color>
+    <color name="setting_item_normal">#FFFFFF</color>
+    <color name="setting_item_focused">#FF00FF</color>
+    <color name="setting_item_pressed">#B1D152</color>
+    <color name="setting_stroke">#A0A0A0</color>
+    <color name="ui_header_background">#52D1B1</color>
+    <color name="ui_header_textcolor">#FFFFFF</color>
+    <color name="setting_item_hint_textcolor">#A0A0A0</color>
+    <color name="setting_item_summary_textcolor">#A0A0A0</color>
+    
+</resources>

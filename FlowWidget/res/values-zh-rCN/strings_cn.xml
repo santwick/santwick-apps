@@ -1,0 +1,58 @@
+<resources>
+
+	<string name="app_name">流量监控小部件</string>
+
+
+    <string name="widget_day">日</string>
+    <string name="widget_month">月</string>
+    
+    <string name="title_activity_config">流量监控</string>
+    <string name="title_activity_config_alerm">流量提醒</string>
+    <string name="title_activity_config_discount">优惠时段</string>
+
+
+    <string name="config_normal_monthlimit">包月流量</string>
+    <string name="config_normal_monthlimit_hint">未设置</string>
+    <string name="config_normal_alerm">流量提醒</string>
+    <string name="config_normal_block">自动断网</string>
+    <string name="config_normal_block_summary">当流量超过限额时</string>
+    <string name="config_adv_flowcorrect">流量校正</string>
+    <string name="config_adv_discount">优惠时段设置</string>
+    <string name="config_ui_progress">小部件进度条</string>
+
+    <string name="config_alerm_title">选择提醒时刻</string>
+    <string name="config_alerm_25">超过总量的25%</string>
+    <string name="config_alerm_50">超过总量的50%</string>
+    <string name="config_alerm_75">超过总量的75%</string>
+    <string name="config_alerm_100">超过总量的100%</string>
+    <string name="config_alerm_5M">流量剩余5MB</string>
+    <string name="config_alerm_1M">流量剩余1MB</string>
+    
+	<string name="config_discount_title">大多数地区都默认晚上半价优惠\n详情请自行咨询运营商</string>
+    <string name="config_discount_type">优惠类型</string>
+    <string name="config_discount_start">起始时间</string>
+    <string name="config_discount_stop">结束时间</string>
+    
+	<string-array name="config_discount_type_hint">
+        <item >无优惠</item>
+        <item >半价</item>
+        <item >免费</item>
+    </string-array>
+    <string-array name="config_discount_select_string">
+        <item >该时段无优惠</item>
+        <item >该时段半价优惠</item>
+        <item >该时段全免费</item>
+    </string-array>
+    
+
+    <string name="input_monthlimit_title">请输入您手机流量的包月值(MB)</string>
+    <string name="input_flowcorrect_title">请校正您手机已用的流量(MB)</string>
+    <string name="tips_flowcorrect_succes">流量校正成功</string>
+    <string name="tips_flowcorrect_failed">流量校正失败，输入格式不正确，请重试</string>
+    
+	<string name="notify_flow_title">流量提醒</string>
+    <string name="notify_flow_content_over">已用%1$.1fMB\n超过本月%2$dMB的%3$d %%。</string>
+    <string name="notify_flow_content_left">已用%1$.1fMB\n本月剩余不足%2$dMB。</string>
+    
+
+</resources>

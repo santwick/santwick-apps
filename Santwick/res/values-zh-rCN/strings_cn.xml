@@ -1,0 +1,49 @@
+<resources>
+
+
+    <string name="title_activity_config_about">关于我们</string>
+    
+    
+    <string name="header_back_back">返回</string>
+    <string name="header_back_exit">退出</string>
+    <string name="header_share">分享</string>
+    
+    
+    <string name="config_normal_title">基本设置</string>
+    <string name="config_adv_title">高级设置</string>
+    <string name="config_ui_title">界面设置</string>
+    <string name="config_other_title">其他设置</string>
+    <string name="config_other_about">关于我们</string>
+
+    
+    <string name="config_about_version">版本更新</string>
+    <string name="config_about_share">分享软件</string>
+    <string name="config_about_share_summary">将该软件分享给朋友</string>
+    <string name="config_about_recommend">我们的应用</string>
+	<string name="config_about_recommend_summary">我们开发的应用集合</string>
+	<string name="config_about_contact">联系我们</string>
+	<string name="config_about_contact_summary">如果你发现我们软件的问题或者有好的建议，请联系我们</string>
+    <string name="config_about_coypright_summary">三推客工作室@2012\n版权所有</string>
+    <string name="config_about_coypright">版权信息</string>
+    
+	<string name="share_title">分享%1$s</string>
+    <string name="share_content">有一款很不错的小软件，叫#%1$s#，你也可以试试。下载地址%2$s @santwick</string>
+	<string name="email_title">关于%1$s的反馈</string>
+    <string name="email_content">我发现了一些问题，对此我有些建议。</string>
+    
+    <string name="button_ok">确定</string>
+    <string name="button_cancel">取消</string>
+    
+	<string name="version_update_confirm">已经有新版本，是否更新？</string>
+    <string name="version_check_alreadylatest">当前版本已经是最新了</string>
+    <string name="version_check_failed">新版本检查失败</string>
+    <string name="version_check_start">开始检查新版本</string>
+    
+    <string name="title_activity_config_ourapps">我们的应用</string>
+	<string name="config_ourapps_company">三推客工作室</string>
+    <string name="config_ourapps_web">网站 http://www.3tke.com</string>
+    <string name="config_ourapps_email">邮件 santwick@gmail.com</string>
+    <string name="config_ourapps_noitem">没有找到应用</string>
+    <string name="app_download_confirm">开始下载？</string>
+
+</resources>

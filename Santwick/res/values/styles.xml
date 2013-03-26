@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style parent="android:Theme.Dialog" name="DownloadTheme">
+		<item name="android:windowNoTitle">true</item>
+		<item name="android:windowBackground">@drawable/popup</item>
+		<item name="android:windowIsTranslucent">true</item>
+		<item name="android:textColor">#ffffff</item>
+    </style>
+    
+</resources>

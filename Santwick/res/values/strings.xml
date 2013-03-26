@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="imgDesc">imgDesc</string>
+	<string name="app_name">Santwick app</string>
+	<string name="app_url">http://www.3tke.com/</string>
+	<string name="update_url">http://update.3tke.com/json</string>
+</resources>
